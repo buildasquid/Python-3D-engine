@@ -5,3 +5,4 @@ You can either add various 3D objects like a cube by specifying its vertices or 
 Its polycount has to be very low though.
 
 Added the ability to move and rotate the camera and the object (if only one object is in the scene).
+You can preview it with the cute whale model i provided.
